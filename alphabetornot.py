@@ -1,5 +1,4 @@
-x=input("")
-print(x)
+x=input()
 if(x>'A'):
     print("Alphabet")
 elif(x>'a'):
